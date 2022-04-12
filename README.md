@@ -1,5 +1,7 @@
 # Simon-Game
 
+Link to play: https://rellik-7.github.io/Simon_Game/
+
 A popular game implemented using HTML, CSS and Javascript.
 
 At every level, you need to memorize the block color indicated, and remember all previous colors as well.
